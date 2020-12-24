@@ -1,0 +1,25 @@
+--[[
+
+
+
+		██╗░░░██╗██████╗░██╗░█████╗░░█████╗░░██████╗████████╗
+		██║░░░██║██╔══██╗██║██╔══██╗██╔══██╗██╔════╝╚══██╔══╝
+		██║░░░██║██████╦╝██║██║░░╚═╝███████║╚█████╗░░░░██║░░░
+		██║░░░██║██╔══██╗██║██║░░██╗██╔══██║░╚═══██╗░░░██║░░░
+		╚██████╔╝██████╦╝██║╚█████╔╝██║░░██║██████╔╝░░░██║░░░
+		░╚═════╝░╚═════╝░╚═╝░╚════╝░╚═╝░░╚═╝╚═════╝░░░░╚═╝░░░
+
+
+-- \\ ^ Developer Notes ^ // --
+
+- This was the first version of Simple but remastered, this script is secured by having the GUI put in CoreGui. Read the warnings :
+
+[!] This script does not have any protection at all, other then the GUI please avoid using this script in games with an anti-cheat system.
+
+]]
+
+--<===========>LOADER<===========>--
+
+loadstring(game:HttpGet("https://pastebin.com/raw/CCYKNJQK"))()
+
+--<==============================>--
