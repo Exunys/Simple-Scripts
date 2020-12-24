@@ -1,0 +1,27 @@
+--[[
+
+
+
+		██╗░░░██╗██████╗░██╗░█████╗░░█████╗░░██████╗████████╗
+		██║░░░██║██╔══██╗██║██╔══██╗██╔══██╗██╔════╝╚══██╔══╝
+		██║░░░██║██████╦╝██║██║░░╚═╝███████║╚█████╗░░░░██║░░░
+		██║░░░██║██╔══██╗██║██║░░██╗██╔══██║░╚═══██╗░░░██║░░░
+		╚██████╔╝██████╦╝██║╚█████╔╝██║░░██║██████╔╝░░░██║░░░
+		░╚═════╝░╚═════╝░╚═╝░╚════╝░╚═╝░░╚═╝╚═════╝░░░░╚═╝░░░
+
+
+-- \\ ^ Developer Notes ^ // --
+
+- This was the first version of Simple and also please read the warnings below :
+
+[!] This script does not have any protection at all, please avoid using this script unless if it is for testing purposes only.
+
+[!] This script has the least amount of features other then any other Simple script.
+
+]]
+
+--<===========>LOADER<===========>--
+
+loadstring(game:HttpGet("https://pastebin.com/raw/fibNBAgt"))()
+
+--<==============================>--
