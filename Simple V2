@@ -1,0 +1,32 @@
+--[[
+
+
+
+		██╗░░░██╗██████╗░██╗░█████╗░░█████╗░░██████╗████████╗
+		██║░░░██║██╔══██╗██║██╔══██╗██╔══██╗██╔════╝╚══██╔══╝
+		██║░░░██║██████╦╝██║██║░░╚═╝███████║╚█████╗░░░░██║░░░
+		██║░░░██║██╔══██╗██║██║░░██╗██╔══██║░╚═══██╗░░░██║░░░
+		╚██████╔╝██████╦╝██║╚█████╔╝██║░░██║██████╔╝░░░██║░░░
+		░╚═════╝░╚═════╝░╚═╝░╚════╝░╚═╝░░╚═╝╚═════╝░░░░╚═╝░░░
+
+
+-- \\ ^ Developer Notes ^ // --
+
+- Press "Y" to print a list of commands, check the Developer Console output to see the commands. (PRESS F9 TO OPEN DEVELOPER CONSOLE)
+
+	-:-Commands-:-
+
+		~ Press "E" to toggle NoClip ON/OFF
+		~ Press "R" to toggle Infinite Jump ON/OFF
+		~ Press and hold "LeftControl" and click with "LeftMouseButton" to teleport to that position
+		~ Press "F" to toggle Fly ON/OFF
+
+ [!] This script remains undetected (THE GUI) since its parent is CoreGui. However the scripts that are used such as NoClip, Click Teleport, Teleport, Humanoid Property Changers etc. can be detected easily. Use with precaution and make sure to use an alternative account to keep your main account safe. Ubicast is not responsible for any bans / consequences your account will take.
+
+]]
+
+--<==========================>LOADER<==========================>--
+
+ loadstring(game:HttpGet("https://pastebin.com/raw/YgiGLyfd"))()
+
+--<============================================================>--
