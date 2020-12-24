@@ -32,15 +32,3 @@ In order to use the scripts you first need to activate the script by clicking on
 
 - Discord : Aleksandar#2880
 - ROBLOX : Ubicast
-
-1. Under your repository name, click [**Settings**](https://github.com/UbicastDev/github-pages-with-jekyll/settings).
-1. In the "GitHub Pages" section, in the Source drop-down, select **main branch**.
-
-After GitHub Pages is enabled and the site is started, we'll be ready to create some more content. 
-
-> Turning on GitHub Pages creates a deployment of your repository. I may take up to a minute to respond as I await the deployment.
-
-<hr>
-<h3 align="center">Return to this issue for my next comment.</h3>
-
-> _Sometimes I respond too fast for the page to update! If you perform an expected action and don't see a response from me, wait a few seconds and refresh the page for your next steps._
