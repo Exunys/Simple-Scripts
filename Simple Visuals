@@ -23,6 +23,6 @@
 
 --<===========>LOADER<===========>--
 
-loadstring(game:HttpGet("https://pastebin.com/raw/fibNBAgt"))()
+loadstring(game:HttpGet("https://pastebin.com/raw/gKYHN0S9"))()
 
 --<==============================>--
