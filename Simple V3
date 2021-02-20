@@ -1,0 +1,41 @@
+--[[
+
+		██╗░░░██╗██████╗░██╗░█████╗░░█████╗░░██████╗████████╗
+		██║░░░██║██╔══██╗██║██╔══██╗██╔══██╗██╔════╝╚══██╔══╝
+		██║░░░██║██████╦╝██║██║░░╚═╝███████║╚█████╗░░░░██║░░░
+		██║░░░██║██╔══██╗██║██║░░██╗██╔══██║░╚═══██╗░░░██║░░░
+		╚██████╔╝██████╦╝██║╚█████╔╝██║░░██║██████╔╝░░░██║░░░
+		░╚═════╝░╚═════╝░╚═╝░╚════╝░╚═╝░░╚═╝╚═════╝░░░░╚═╝░░░
+
+
+-- \\ ^ Developer Notes ^ // --
+
+- Simple V3 Made by Ubicast
+
+~:~Information~:~
+
+[1] This version of Simple (Simple V3) has encrypted scripts.
+[2] It is most recommended that you run this script in a paid exploit because of the loader frame and the data saving system.
+[3] This is the most protected version of Simple so far and reduces your chances of being detected by a lot.
+[4] This script will save the keybinds and the settings from the settings frame that you have entered as long as you're using an exploit that supports that feature.
+[5] This script has a very eye-friendly and a clean UI (user interface) with dark and comfortable colors. This script also has smooth TweenService animations.
+
+(!!!) If this script failed to run :
+~ If you're using a paid exploit :
+   - Go in your workspace folder in your exploit folder and delete the Simple Scripts folder.
+~ If you're using a free exploit :
+   - Press F9, take a screenshot and contact Ubicast on discord at Aleksandar#4360.
+   - Update your exploit.
+   - Check your anti-virus software for any quarantined files that are crucial to your exploit and whitelist them.
+~ Check if you're using the updated version of Simple V3. Find it at https://github.com/UbicastDev/Simple-Scripts
+
+^^ Follow these instructions for if the script fails to run ^^
+~ If the script crashes your game it is because an unsupported function has been executed from Simple that your script cannot handle.
+
+]]
+
+--<==========================>LOADER<==========================>--
+
+loadstring(game:HttpGet("https://pastebin.com/raw/PXiih4bf"))()
+
+--<============================================================>--
