@@ -13,11 +13,10 @@ In order to use the scripts you first need to activate the script by clicking on
 - [Simple REBORN](https://github.com/UbicastDev/Simple-Scripts/blob/main/Simple%20REBORN)
 - [Simple Visuals](https://github.com/UbicastDev/Simple-Scripts/blob/main/Simple%20Visuals)
 - [Simple V2](https://github.com/UbicastDev/Simple-Scripts/blob/main/Simple%20V2)
-- Simple V3 (WIP)
+- [Simple V3](https://github.com/UbicastDev/Simple-Scripts/blob/main/Simple%20V3)
 
 ## Features
 
-- Smooth Tween Animations
 - NoClip
 - Click Teleport
 - Fly
@@ -26,7 +25,10 @@ In order to use the scripts you first need to activate the script by clicking on
 - WalkSpeed Changer
 - JumpPower Changer
 - Teleport To Player
-- More in Simple V3 (coming soon...)
+- Explode Yourself
+- Time Changing
+- Rejoin Game
+- Air Walk
 
 ## Contact information
 
