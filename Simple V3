@@ -30,7 +30,7 @@
 ~ Check if you're using the updated version of Simple V3. Find it at https://github.com/UbicastDev/Simple-Scripts
 
 ^^ Follow these instructions for if the script fails to run ^^
-~ If the script crashes your game it is because an unsupported function has been executed from Simple that your script cannot handle.
+~ If the script crashes your game it is because an unsupported function has been executed from Simple that your script executor cannot handle.
 
 ]]
 
