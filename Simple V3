@@ -1,24 +1,25 @@
 --[[
-
-		██╗░░░██╗██████╗░██╗░█████╗░░█████╗░░██████╗████████╗
-		██║░░░██║██╔══██╗██║██╔══██╗██╔══██╗██╔════╝╚══██╔══╝
-		██║░░░██║██████╦╝██║██║░░╚═╝███████║╚█████╗░░░░██║░░░
-		██║░░░██║██╔══██╗██║██║░░██╗██╔══██║░╚═══██╗░░░██║░░░
-		╚██████╔╝██████╦╝██║╚█████╔╝██║░░██║██████╔╝░░░██║░░░
-		░╚═════╝░╚═════╝░╚═╝░╚════╝░╚═╝░░╚═╝╚═════╝░░░░╚═╝░░░
+             _    _   _       _                        _   
+            | |  | | | |     (_)                      | |  
+            | |  | | | |__    _    ___    __ _   ___  | |_ 
+            | |  | | | '_ \  | |  / __|  / _` | / __| | __|
+            | |__| | | |_) | | | | (__  | (_| | \__ \ | |_ 
+             \____/  |_.__/  |_|  \___|  \__,_| |___/  \__|
 
 
 -- \\ ^ Developer Notes ^ // --
 
-- Simple V3 Made by Ubicast
+Simple V3 Made by Ubicast
+
+Current Version : 2.3
 
 ~:~Information~:~
 
 [1] This version of Simple (Simple V3) has encrypted scripts.
-[2] It is most recommended that you run this script in a paid exploit because of the loader frame and the data saving system.
+[2] It is most recommended that you run this script in a paid exploit because of the loading screen and the configuration saving system.
 [3] This is the most protected version of Simple so far and reduces your chances of being detected by a lot.
-[4] This script will save the keybinds and the settings from the settings frame that you have entered as long as you're using an exploit that supports that feature.
-[5] This script has a very eye-friendly and a clean UI (user interface) with dark and comfortable colors. This script also has smooth TweenService animations.
+[4] This script will save the keybinds and the settings from the settings tab that you have entered as long as you're using an exploit that supports that feature.
+[5] This script has a very eye-friendly and a clean user interface with dark and eye-comforting colors and smooth tweening animations.
 
 (!!!) If this script failed to run :
 ~ If you're using a paid exploit :
@@ -30,7 +31,11 @@
 ~ Check if you're using the updated version of Simple V3. Find it at https://github.com/UbicastDev/Simple-Scripts
 
 ^^ Follow these instructions for if the script fails to run ^^
-~ If the script crashes your game it is because an unsupported function has been executed from Simple that your script executor cannot handle.
+~ If the script crashes your game it is because an unsupported function has been executed from Simple that your script executor cannot handle / support.
+
+These are trusted & recommended exploits that you should use to execute this script :
+
+Synapse X, Sentinel, ProtoSmasher, SirHurt, Script-Ware, Calamari and krnl.
 
 ]]
 
