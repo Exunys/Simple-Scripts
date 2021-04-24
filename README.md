@@ -4,7 +4,7 @@
 
 Welcome to Exunys's ROBLOX exploiting scripts - **Simple Scripts**.
 
-If you're new to Simple Scripts, well hello! Simple Scripts is a project made by Ubicast which is a bunch of **Simple** to use ROBLOX exploiting scripts. These scripts are all made originally by Ubicast, inspired by other admin command scripts which use scripts that require to be activated by writing a command in the in-game chat which is visible to every player in the game and would also make it obvious that you're exploiting, so what I did instead is I re-created the scripts myself and set them all to be activated by using a **key bind**.
+If you're new to Simple Scripts, well hello! Simple Scripts is a project made by Exunys which is a bunch of **Simple** to use ROBLOX exploiting scripts. These scripts are all made originally by Exunys, inspired by other admin command scripts which use scripts that require to be activated by writing a command in the in-game chat which is visible to every player in the game and would also make it obvious that you're exploiting, so what I did instead is I re-created the scripts myself and set them all to be activated by using a **key bind**.
 
 In order to use the scripts you first need to activate the script by clicking on it.
 
